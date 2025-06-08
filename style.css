@@ -6,7 +6,7 @@ body {
 }
 
 body p {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
 }
 
@@ -21,10 +21,10 @@ body p {
 .design-card {
     background-color: hsl(0, 0%, 100%);
     border-radius: 4%;
-    width: 310px;
+    width: 320px;
     padding: 1.5em;
     border: 1px solid black;
-    box-shadow: 8px 9px 0 2px black;
+    box-shadow: 8px 7px 0 1px black;
 }
 
 .first {
@@ -52,7 +52,7 @@ body p {
 }
 
 h1 {
-    font-size: 26px;
+    font-size: 24px;
 }
 
 p, h1 {
