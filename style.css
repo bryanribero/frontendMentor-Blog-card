@@ -6,7 +6,7 @@ body {
 }
 
 body p {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 500;
 }
 
@@ -21,7 +21,7 @@ body p {
 .design-card {
     background-color: hsl(0, 0%, 100%);
     border-radius: 4%;
-    width: 330px;
+    width: 310px;
     padding: 1.5em;
     border: 1px solid black;
     box-shadow: 8px 9px 0 2px black;
@@ -47,7 +47,7 @@ body p {
 }
 
 .profile-container img {
-    width: 2.4em;
+    width: 2em;
     padding-right: 1em;
 }
 
